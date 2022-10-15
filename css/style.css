@@ -1,0 +1,50 @@
+.lang{
+    transform: rotate(-90deg);
+}
+main .row img{
+    width: 100%;
+}
+.main .container a{
+    text-decoration: none;
+    color: gray;
+}
+.main .container a:hover{
+    color: black;
+}
+.container .row .java {
+    width: 190px;
+}
+.container .row .figma{
+    width: 180px;
+}
+.about_me .container{
+    height: 40vh;
+    background-color: #F6F6F6;
+}
+.container .flex_3{
+    padding-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.container .flex_3 .col a{
+    border-radius: 5vh;
+    padding: 1vh 3vh;
+    color: white;
+    background-color: black;
+}
+.container .row .icon img{
+    width: 6vh;
+    padding-top: 10vh;
+}
+.container .cent{
+    width: 30%;
+    margin-left: 55vh;
+}
+.container .end_2 .col p{
+    color: gray;
+}
+.container .bottom{
+    background-color: #F6F6F6;
+    width: 100%;
+}
